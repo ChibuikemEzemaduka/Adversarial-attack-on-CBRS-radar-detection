@@ -11,12 +11,7 @@ the susceptibility of these systems to adversarial learning attacks remains
 under-investigated. This study addresses this gap by implementing and evaluating
 the potential of adversarial attacks to compromise the CBRS radar detection system.
 Such attacks could render the classifier oblivious to radar operations, precipitating
-a transmission collision and consequent system breakdown. Our findings reveal the
-limitations of adversarial influence, with attacks achieving efficacy predominantly
-at low Signal to Noise Ratios (SNR). While classifier accuracy remains stable
-above 10 dB SNR, there is a notable degradation in model confidence up to 40 %,
-underscoring the need for enhanced defense strategies against adversarial attacks
-in CBRS operations.
+a transmission collision and consequent system breakdown. 
 
 You can run the codes in the following order if you wish to start everything from scratch
 OR depending on the section you are interested in, you can decide to just run the code for that section
